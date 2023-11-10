@@ -1,0 +1,101 @@
+
+#pokemon {
+  padding-top: -10px;
+  border: 3px solid rgb(230, 237, 154);
+  font: inherit;
+	font-weight: 500;
+  position: relative;
+  left: 160px;
+  width: 1150px;
+  color: black;
+  background-color: aliceblue;
+  
+}
+
+#stats {
+    width: 350px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    height: 50px;
+}
+
+
+#bst{
+  background-color: rgb(181, 183, 186);
+  width: 40px;
+
+}
+
+#hp{
+  background-color: rgb(213, 102, 90);
+  width: 40px;
+}
+
+#atk{
+  background-color: rgb(238, 182, 54);
+  width: 40px;
+}
+
+#def{
+  background-color: rgb(241, 232, 57);
+  width: 40px;
+}
+
+#spatk{
+  background-color: rgb(145, 182, 237);
+  width: 40px;
+}
+
+#spdef{
+  background-color: rgb(98, 233, 102);
+  width: 40px;
+}
+
+#spd{
+  background-color: rgb(245, 117, 232);
+  width: 40px;
+}
+
+
+#ability{
+  background-color: rgb(226, 225, 216);
+  height: 47px;
+  width: 350px;
+}
+
+
+
+#num {
+  font-size: 30px;
+  width: 80px;
+}
+
+#name {
+  font-size: 30px;
+  width: 250px;
+}
+
+
+#type1{
+  position: relative;
+  top: -7px;
+  left: 0;
+  width: 37px;
+}
+
+#type2{
+  position: relative;
+  top: 11px;
+  left: -54px;
+  width: 37px;
+}
+
+
+#ability {
+  width: 300px;
+  font-size: 16px;
+}
+
+
+
+

@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+	font: inherit;
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 1.4;
+
+	background-color: #c3c4c7;
+  background-image: url('https://w.wallhaven.cc/full/3l/wallhaven-3lz7wy.png');
+  background-position: center;
+  background-repeat: repeat;
+  padding-top: 100px;
+  padding-bottom: 300px;
+}
+
+
+.drop {
+  font: inherit;
+  padding: 10px;
+  border-radius: 0.25em;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-right: 37px;
+}
+
+
+
+#header {
+
+  padding-top: -10px;
+  border: 3px solid rgb(230, 237, 154);
+  font: inherit;
+	font-weight: 500;
+  position: relative;
+  left: 160px;
+  width: 1150px;
+  color: black;
+  background-color: aliceblue;
+  
+}
